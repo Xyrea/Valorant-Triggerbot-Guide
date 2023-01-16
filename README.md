@@ -1,10 +1,15 @@
-# ValorantTriggerbot
-**NOT A TRIGGERBOT - ONLY A GUIDE HOW TO MAKE ONE YOURSELF**
+# The easiest way to make a triggerbot
+This project was made for educational purposes.
+I do not encourage the usage of third party software.
 
-foreword 
-I got help from others while doing this and i just want to share it to you
+---
 
-## What you need
+---
+
+## <a id="intro"></a>What is a triggerbot?
+A triggerbot will help you in-game by shooting automatically once your crosshair is on an enemy entity.
+
+## <a id="requirements"></a>Things you will need
 - A way to emulate mouse clicks (can be a software but also hardware)
 - A way to read colors from screen pretty fast (We call this the `screenreader` for now)
 - Code
