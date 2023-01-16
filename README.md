@@ -55,3 +55,10 @@ if(mouse.rightclick.isPressed() == true) //if RC is clicked
 ```
 ^^^
 Fictive code
+
+Make sure to always write your own code and not to copy from the internet in order to ensure complete functionality.
+
+---
+
+## Liked this project?
+Feel free to leave a star 🌟
